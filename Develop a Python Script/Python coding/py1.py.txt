@@ -3,9 +3,9 @@ import time
 import random
 myConfig = {
 	"identity": {
-		"orgId": "gagtey",
-		"typeId": "GPS",
-		"deviceId":"12345"
+		"orgId": "aynel8",
+		"typeId": "iot_device",
+		"deviceId":"4016"
 	},
 	"auth": {
 		"token": "12345678"
